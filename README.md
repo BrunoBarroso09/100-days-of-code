@@ -6,3 +6,5 @@
 - <h4>[Day 3:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day3) Treasure island</h4>
 - <h4>[Day 4:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day4) Rock Paper Scissors</h4>
 - <h4>[Day 5:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day5) Password generator</h4>
+- <h4>[Day 6:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day6) Hurdle and maze game</h4>
+- <h4>[Day 7:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day7) Hangman game</h4>
