@@ -1,8 +1,9 @@
 from art import logo
+import subprocess
 import os
 
 def clear():
-    os.system('cls' if os.name == 'nt' else 'clear')
+    subprocess.run('cls' if os.name == 'nt' else 'clear')
 
 def highest_bidder(data):
     highest_bid = 0
