@@ -13,6 +13,7 @@ operations = {
 }
 
 def first_operation():
+    print(logo)
     dict_values = {}
     number1 = int(input("What's the first number?: "))
     print("+\n-\n*\n/")
@@ -27,10 +28,10 @@ def first_operation():
 
 def calculator():
     run = True
-    values = list(first_operation().values())
-    print(f'Result: {values[0]} {values[1]} {values[2]} = {values[3]}')
+    values = first_operation()
+    print(f'Result: {values["number1"]} {values["operator"]} {values["number2"]} = {values["result"]}')
     while run:
-        result = values[3]
+        result = values["result"]
         option = input(f'Type y to continue calculating with {result}, or type n to start a new calculation:')
         if option == "y":
             print("+\n-\n*\n/")
@@ -38,9 +39,10 @@ def calculator():
             next_number = int(input("What's the next number?: "))
             next_operations = operations[operator](result, next_number)
             print(f'Result: {result} {operator} {next_number} = {next_operations}')
-            values[3] = next_operations
+            values["result"] = next_operations
         else:
             run = False
             clear()
+            first_operation()
 
 calculator()
