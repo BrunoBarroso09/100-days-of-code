@@ -40,7 +40,7 @@ def main():
         elif choose == 'b' and follower_a > follower_b:
             print(f"\nIncorrect, your final score is {score}.")
             run = False
-    play_again = input("\nDo you want to play again? Type 'y' or 'n': ")
+    play_again = input("\nDo you want to play again? Type 'y' or 'n': ").lower()
     if play_again == 'y':
         main()
     elif play_again == 'n':
