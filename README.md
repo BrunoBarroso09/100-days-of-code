@@ -18,3 +18,6 @@
 
 ## <h1>Intermediate</h1>
 - [Day 15:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_15/main.py) Coffee Machine</h4>
+- [Day 16:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_16/main.py) Coffee machine with OOP</h4>
+- [Day 17:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_17/main.py) Quiz project</h4>
+- [Day 18:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_18/main.py) Painting Project</h4>
