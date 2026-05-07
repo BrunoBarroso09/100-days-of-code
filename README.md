@@ -22,3 +22,4 @@
 - [Day 17:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_17/main.py) Quiz project</h4>
 - [Day 18:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_18/main.py) Painting Project</h4>
 - [Day 19:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_19/main.py) Turtle race</h4>
+- [Day 20:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_20/main.py) Snake game</h4>
