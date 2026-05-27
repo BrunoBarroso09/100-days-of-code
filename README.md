@@ -23,4 +23,6 @@
 - [Day 18:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_18/main.py) Painting Project</h4>
 - [Day 19:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_19/main.py) Turtle race</h4>
 - [Day 20:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_20/main.py) Snake game</h4>
-- [Day 21:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_21/main.py) Pong game</h4>
+- [Day 22:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_22/main.py) Pong game</h4>
+- [Day 23:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_23/main.py) Turtle crossing road</h4>
+- [Day 24:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_24/main.py) Send letter</h4>
