@@ -26,3 +26,4 @@
 - [Day 22:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_22/main.py) Pong game</h4>
 - [Day 23:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_23/main.py) Turtle crossing road</h4>
 - [Day 24:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_24/SendLetters/main.py) Send letter</h4>
+- [Day 25:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_25/US-State/main.py) Guess U.S. States Game</h4>
