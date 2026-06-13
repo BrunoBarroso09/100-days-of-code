@@ -20,10 +20,7 @@ while correct_state != count_state:
     )
 
     if answer_state is None or answer_state.lower() == 'exit':
-        missed_states = []
-        for state in all_states:
-            if state not in guessed_states:
-                missed_states.append(state)
+        missed_states = [state for state in allstates if state not in guessed_states]
         data_dict = {
             "states": missed_states
         }
@@ -43,4 +40,3 @@ while correct_state != count_state:
         turtle.goto(x_value, y_value)
         turtle.write(answer_state)
         correct_state += 1
-
