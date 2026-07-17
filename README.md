@@ -29,3 +29,4 @@
 - [Day 25:](https://github.com/BrunoBarroso09/100-days-of-code/tree/Dev/Day_25/US-State/main.py) Guess U.S. States Game</h4>
 - [Day 26:](https://github.com/BrunoBarroso09/100-days-of-code/blob/Dev/Day_26/NatoAlphabet/main.py) Nato Alphabet</h4>
 - [Day 27:](https://github.com/BrunoBarroso09/100-days-of-code/blob/Dev/Day_27/main.py) Tkinter, *args, **kwargs and Creating GUI Programs</h4>
+- [Day 27:](https://github.com/BrunoBarroso09/100-days-of-code/blob/Dev/Day_28/main.py) Tkinter, Dynamic Typing and the Pomodoro GUI Application</h4>
