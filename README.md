@@ -30,3 +30,4 @@
 - [Day 26:](https://github.com/BrunoBarroso09/100-days-of-code/blob/Dev/Day_26/NatoAlphabet/main.py) Nato Alphabet</h4>
 - [Day 27:](https://github.com/BrunoBarroso09/100-days-of-code/blob/Dev/Day_27/main.py) Tkinter, *args, **kwargs and Creating GUI Programs</h4>
 - [Day 28:](https://github.com/BrunoBarroso09/100-days-of-code/blob/Dev/Day_28/main.py) Tkinter, Dynamic Typing and the Pomodoro GUI Application</h4>
+- [Day 29:](https://github.com/BrunoBarroso09/100-days-of-code/blob/Dev/Day_29/main.py) Building a Password Manager GUI App with Tkinter</h4>
