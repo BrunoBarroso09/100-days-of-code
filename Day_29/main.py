@@ -31,6 +31,9 @@ def save_information():
     if website == "" or email == "" or password == "":
         messagebox.showwarning(title="Empty fields", message="Please don't leave any empty fields")
 
+    messagebox.showwarning(title="Password Manager",
+    message=f"Email: {email}, Password: {password} \n Is this ok?")
+
     with open("password.txt", mode="a") as file:
         file.write(f"{website} | {email} | {password} \n")
 
